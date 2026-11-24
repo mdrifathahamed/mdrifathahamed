@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://orcid.org/0009-0005-6158-8658"><img src="https://img.shields.io/badge/ORCID-0009--0005--6158--8658-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="mailto:rifath.ahamed@helsinki.fi"><img src="https://img.shields.io/badge/email-rifath.ahamed%40helsinki.fi-24292f?style=flat-square" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/md-rifath-ahamed-842795387/"><img src="https://img.shields.io/badge/LinkedIn-md--rifath--ahamed-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mdrifathahamed/"><img src="https://img.shields.io/badge/LinkedIn-mdrifathahamed-0A66C2?style=flat-square" alt="LinkedIn"/></a>
 </p>
 
 I am an MSc student in Ecology and Evolutionary Biology at the University of Helsinki,
@@ -23,9 +23,8 @@ Presented at the XLIII Annual Meeting of the Willi Hennig Society (Bogotá, 2026
 supported by the Kurt Milton Pickett Intercontinental Award.
 
 **🪲 Morphological evolution** <sub>(starting 2027)</sub><br>
-Do larvae and adults of beetles evolve as independent units? A phenomic pilot study that
-tests adult–larval evolutionary decoupling with the Beetle Tree of Life morphological matrix,
-anatomy ontologies and stochastic character mapping in R.
+Phenomic analysis of beetle morphological evolution, using morphological data,
+anatomy ontologies and phylogenetic comparative methods in R.
 
 **🛰 Spatial data and remote sensing**<br>
 A reproducible drone-image analysis pipeline for precision agriculture with ArcGIS and Python
