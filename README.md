@@ -41,7 +41,7 @@ Python for geospatial and image analysis · foundations of population genomics
 
 | | |
 |---|---|
-| **Languages** | R · Python (learning) |
+| **Languages** | R · Python |
 | **Phylogenetics** | ape · phangorn · phylogenetic comparative methods |
 | **Spatial** | ArcGIS Pro · satellite and drone imagery |
 | **Software development** | Git · GitHub Actions · testthat · roxygen2 · pkgdown |
